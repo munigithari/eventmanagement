@@ -1,0 +1,21 @@
+2024-04-11 07:57:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EVENT" not found (this database is empty); SQL statement:
+select event0_.id as id1_0_, event0_.date as date2_0_, event0_.name as name3_0_ from event event0_ [42104-214]
+2024-04-11 07:58:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EVENT" not found (this database is empty); SQL statement:
+select event0_.id as id1_0_, event0_.date as date2_0_, event0_.name as name3_0_ from event event0_ [42104-214]
+2024-04-11 07:58:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EVENT" not found (this database is empty); SQL statement:
+select event0_.id as id1_0_, event0_.date as date2_0_, event0_.name as name3_0_ from event event0_ [42104-214]
+2024-04-11 08:00:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EVENT" not found (this database is empty); SQL statement:
+select event0_.id as id1_0_, event0_.date as date2_0_, event0_.name as name3_0_ from event event0_ [42104-214]
+2024-04-11 08:01:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SPONSOR" not found (this database is empty); SQL statement:
+select sponsor0_.id as id1_2_, sponsor0_.industry as industry2_2_, sponsor0_.name as name3_2_ from sponsor sponsor0_ [42104-214]
+2024-04-17 08:47:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EVENT" not found (this database is empty); SQL statement:
+select event0_.id as id1_0_, event0_.date as date2_0_, event0_.name as name3_0_ from event event0_ [42104-214]
+2024-04-17 09:05:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EVENT" not found (this database is empty); SQL statement:
+select event0_.id as id1_0_, event0_.date as date2_0_, event0_.name as name3_0_ from event event0_ [42104-214]
